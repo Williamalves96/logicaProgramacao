@@ -20,8 +20,8 @@ function App() {
   };
 
   function consultar(){
-if( inputNadar=sim && inputIdade>=16){
-  set
+if( inputNadar=="sim" && inputIdade>=16){
+  setInputNadar("Aprovado para o navio!")
 
 }
   };
@@ -46,9 +46,9 @@ if( inputNadar=sim && inputIdade>=16){
 
       <div>
         <h2>Exercicio  10 -  Teste de Recrutamento para Novos Marujos</h2>
+       
 
-
-
+              
 
 
       </div>
